@@ -1,0 +1,13 @@
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-color: navajowhite;
+    box-shadow: 2px 30px  5px rgba(0red,0green,0 blue, alpha  33);
+}
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
